@@ -1,0 +1,31 @@
+:root{
+    /* color */
+    --primary-color: #F53838;
+    --heading-color: #0B132A;
+    --body-color:#4F5665;
+    --bg-color:#fff;
+
+    /* typography  */
+    --heading-font-family: "Rubik", sans-serif;
+    --body-ff: "Rubik", sans-serif;
+
+    
+    --fs-base: 1rem;
+    --lh-base: calc(30/16);
+
+    /* boder radius */
+    --rounded: 0.635rem;
+    --rounded-lg: 3.125rem;
+    --rounded-full: 9999px;
+
+    --border: 2px solid #DDDDDD;
+
+    /* container */
+    --container-padding: 1.875rem;
+
+    /* layout */
+    --column-gap: 1.875rem;
+
+    /* transition */
+    -o-transition: all 0.3s ease;
+}
